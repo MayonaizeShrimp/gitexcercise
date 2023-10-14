@@ -1,0 +1,3 @@
+const handleGoBack = () => {
+	history.back();
+}
